@@ -1,3 +1,36 @@
+<div align="center">
+  <table style="font-weight : bold">
+      <tr>
+          <td align="center">
+              <a href="https://github.com/useonglee">                 
+                  <img alt="이우성" src="https://avatars.githubusercontent.com/useonglee" width="80" />            
+              </a>
+          </td>
+          <td align="center">
+              <a href="https://github.com/suubinkim">                 
+                  <img alt="김수빈" src="https://avatars.githubusercontent.com/suubinkim" width="80" />            
+              </a>
+          </td>
+          <td align="center">
+              <a href="https://github.com/AnneMayor">                 
+                  <img alt="이다혜" src="https://avatars.githubusercontent.com/AnneMayor" width="80" />            
+              </a>
+          </td>
+          <td align="center">
+              <a href="https://github.com/">                 
+                  <img alt="" src="https://avatars.githubusercontent.com/" width="80" />            
+              </a>
+          </td
+      </tr>
+      <tr>
+          <td align="center">이우성(프론트엔드)</td>
+          <td align="center">김수빈(백엔드)</td>
+          <td align="center">이다혜(백엔드)</td>
+          <td align="center">김유비</td>
+      </tr>
+  </table>
+</div>
+  
 # 20th-Network-Study
 
 ## 스터디 목표: HTTP 완벽 가이드 완독 스터디(1~21장)
